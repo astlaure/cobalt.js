@@ -1,0 +1,1 @@
+export { default as CobaltApp } from './App.tsx';
